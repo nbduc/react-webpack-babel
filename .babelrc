@@ -1,6 +1,7 @@
 {
+    // preset is set of plugin
     "presets": [
-        "@babel/preset-env",
+        "@babel/preset-env", // chuyển es6 về es5
         "@babel/preset-react"
     ]
 }
